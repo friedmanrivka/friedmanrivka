@@ -6,6 +6,6 @@ C# .NET Core Python C C++ Java JavaScript Node.js React Redux CSS3 HTML5 SQL Mon
 
 I'm actively seeking a challenging position where I can apply my skills and leverage my diverse experience in the backend web world. If you have an opportunity or a project you'd like to discuss, please feel free to contact me.
 
-📫 You can contact me via email at pessimargalit@gmail.com
+📫 You can contact me via email at rivka0504173291@gmail.com
 
 Let's build amazing things together!
