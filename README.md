@@ -6,7 +6,7 @@ C# .NET Core Python C C++ Java JavaScript Node.js React Redux CSS HTML5 SQL Mong
 
 I'm actively seeking a challenging position where I can apply my skills and leverage my diverse experience in the backend web world. If you have an opportunity or a project you'd like to discuss, please feel free to contact me.
 
-![minion](https://github.com/friedmanrivka/friedmanrivka/assets/151746698/d220addc-4f9e-4d04-ae4a-64ed12f5c4db)
+c.png
 
 📫 You can contact me via email at rivka0504173291@gmail.com
 
