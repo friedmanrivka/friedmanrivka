@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm a Freelance Full Stack Developer with a passion for crafting robust and efficient software solutions. I enjoy working with a diverse range of technologies to build scalable applications and solve real-world problems. Here are some of the languagesI work with:
-<br>
+<br><br>
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=c">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=cpp">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=cs">
@@ -14,7 +14,7 @@ I'm a Freelance Full Stack Developer with a passion for crafting robust and effi
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=react">
 <br>
 These are the development environments I work with:
-<br>
+<br><br>
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=mysql">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=visualstudio">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=vscode">
