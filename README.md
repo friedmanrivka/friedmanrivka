@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm a Freelance Full Stack Developer with a passion for crafting robust and efficient software solutions. I enjoy working with a diverse range of technologies to build scalable applications and solve real-world problems. Here are some of the languagesI work with:
+<br>
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=c">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=cpp">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=cs">
