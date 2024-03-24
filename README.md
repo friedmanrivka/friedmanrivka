@@ -16,13 +16,11 @@ I'm a Freelance Full Stack Developer with a passion for crafting robust and effi
 These are the development environments I work with:
 <br>
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=mysql">
-<img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=sql">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=visualstudio">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=vscode">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=github">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=git">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=postman">
-
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=github">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=stackoverflow">
 <br>
