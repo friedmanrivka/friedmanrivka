@@ -21,6 +21,7 @@ These are the development environments I work with:
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=github">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=git">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=postman">
+<img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=netbeans">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=github">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=stackoverflow">
 <br>
