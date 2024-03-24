@@ -12,7 +12,7 @@ I'm a Freelance Full Stack Developer with a passion for crafting robust and effi
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=css">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=nodejs">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=react">
-<br>
+<br><br>
 These are the development environments I work with:
 <br><br>
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=mysql">
@@ -23,7 +23,7 @@ These are the development environments I work with:
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=postman">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=github">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=stackoverflow">
-<br>
+<br><br>
 I'm actively seeking a challenging position where I can apply my skills and leverage my diverse experience in the backend web world. If you have an opportunity or a project you'd like to discuss, please feel free to contact me.
 
 📫 You can contact me via email at rivkaf291@gmail.com
