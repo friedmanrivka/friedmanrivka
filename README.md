@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋
 
 I'm a Freelance Full Stack Developer with a passion for crafting robust and efficient software solutions. I enjoy working with a diverse range of technologies to build scalable applications and solve real-world problems. Here are some of the languagesI work with:
 <br><br>
@@ -12,6 +12,7 @@ I'm a Freelance Full Stack Developer with a passion for crafting robust and effi
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=css">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=nodejs">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=react">
+<img width="22px" title="Python" align="left" src="https://skillicons.dev/icons?i=python">
 <br><br>
 These are the development environments I work with:
 <br><br>
@@ -19,6 +20,7 @@ These are the development environments I work with:
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=visualstudio">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=vscode">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=github">
+<img width="22px" title="Bootstrap" align="left" src="https://skillicons.dev/icons?i=bootstrap">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=git">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=postman">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=github">
