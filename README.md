@@ -21,7 +21,6 @@ These are the development environments I work with:
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=vscode">
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=github">
 <img width="22px" title="AWS" align="left" src="https://skillicons.dev/icons?i=aws">
-<img width="22px" title="Swagger" align="left" src="https://skillicons.dev/icons?i=swagger">
 <img width="22px" title="Sass" align="left" src="https://skillicons.dev/icons?i=sass">
 <img width="22px" title="Docker" align="left" src="https://skillicons.dev/icons?i=docker">
 <img width="22px" title="Bootstrap" align="left" src="https://skillicons.dev/icons?i=bootstrap">
