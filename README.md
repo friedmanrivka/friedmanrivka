@@ -30,9 +30,9 @@ These are the development environments I work with:
 <img width="22px" title="GitHub" align="left" src="https://skillicons.dev/icons?i=stackoverflow">
 <br><br>
 ## Work Experience
-- **AppsFlyer**:
-- *Backend Development*
-- *Frontend Development*
+### AppsFlyer:
+ *Backend Development*
+ *Frontend Development*
 <br><br>
 I'm actively seeking a challenging position where I can apply my skills and leverage my diverse experience in the backend web world. If you have an opportunity or a project you'd like to discuss, please feel free to contact me.
 
